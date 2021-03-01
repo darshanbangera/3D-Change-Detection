@@ -1,19 +1,18 @@
 # 3D Change Detection
+
 Environment : environment.yml file provided to create conda environment
+
 Dataset File Structure
--Project folder
-    |------Data
-    	     |
-    	     |----model.pth
-    	     |----train.dat(upon creation)
-    	     |----test.dat(upon creation)
-    |------Shrec_change_detection_dataset_public
-    	     |
-    	     |----2016
-    	     |
-    	     |----2020
-    	     |
-    	     |----labeled_point_lists_train
+
+Project folder<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-Data<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--model.pth<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--train.dat(upon creation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--test.dat(upon creation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--Shrec_change_detection_dataset_public<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----2016<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----2020<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|----labeled_point_lists_train<br>
 
 Data Preparation:
 
